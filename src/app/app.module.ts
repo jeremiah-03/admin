@@ -11,7 +11,6 @@ import { QuestionAnswerComponent } from './question-answer/question-answer.compo
 import { CreateComponent } from './candidate/create/create.component';
 import { CreateUserComponent } from './user/create-user/create-user.component';
 import { CreateInterviewComponent } from './interview/create-interview/create-interview.component';
-
 @NgModule({
   declarations: [
     AppComponent,
